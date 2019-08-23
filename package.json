@@ -1,0 +1,28 @@
+{
+  "name": "node-mvc",
+  "version": "1.0.0",
+  "description": "Nodejs MVC Template",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/trzfps/node-mvc.git"
+  },
+  "keywords": [
+    "node",
+    "mvc"
+  ],
+  "author": "Vitor Francisco de Santana",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/trzfps/node-mvc/issues"
+  },
+  "homepage": "https://github.com/trzfps/node-mvc#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1"
+  }
+}
